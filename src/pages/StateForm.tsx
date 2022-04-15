@@ -44,7 +44,7 @@ function handleChange(e: any){
             <Table borderless={true} className="container" >
               <tbody>
                 <tr>
-                  <td> <Form.Label >Note Genérale</Form.Label> </td>
+                  <td> <Form.Label >Ressenti Global</Form.Label> </td>
                   <td> <Form.Range
                     className="container"
                     name="mood"

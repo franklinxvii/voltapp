@@ -44,7 +44,7 @@ return(
                   </thead>
                   <tbody>
                     <tr>
-                      <td> Une note génrale </td>
+                      <td> Ressenti Global </td>
                       <td> {data.mood}</td>
                     </tr>
                     <tr>
